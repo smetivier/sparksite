@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+inspirationalspark.com	TRUE	/	FALSE	1999999999	6491562266732387	sid&c4454d983f32e0bf2eddd5675ec90453
+
